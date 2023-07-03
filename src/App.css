@@ -26,7 +26,7 @@ body {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
   letter-spacing: 0.9px;
   background: linear-gradient(
     90deg,
@@ -35,8 +35,7 @@ h1 {
   );
   -webkit-background-clip: text;
   background-clip: text;
-  -webkit-text-fill-color: transparent;
-  text-align: left;
+  -webkit-text-fill-color: transparent
 }
 
 .search {
